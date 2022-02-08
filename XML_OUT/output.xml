@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="30.482">
+<testcase classname="Test Sauce-Ecommerce Demo Feature" name="Test highest price product" time="27.677">
+<system-out><![CDATA[Given the user launches the particular url "https://www.saucedemo.com/".....passed
+When the user sends username "standard_user" and password "secret_sauce"....passed
+And the user clicks the login button........................................passed
+Then the user should verifies the url of the webpage "https://www.saucedemo.com/inventory.html".passed
+When the user finding the highest pricing product...........................passed
+Then the user should validate this prodcut by checking the remove button....passed
+]]></system-out>
+</testcase>
+<testcase classname="Test Sauce-Ecommerce Demo Feature" name="Test lowest price product" time="0.945">
+<system-out><![CDATA[When the user finding the lowest pricing product............................passed
+Then the user should validate this prodcut by checking the remove button....passed
+]]></system-out>
+</testcase>
+</testsuite>
