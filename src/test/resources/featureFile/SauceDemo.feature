@@ -1,3 +1,4 @@
+@SauceDemo
 Feature: Test Sauce-Ecommerce Demo Feature
 
 @HighestPricingProduct

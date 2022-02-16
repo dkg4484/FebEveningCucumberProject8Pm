@@ -1,3 +1,4 @@
+@DataTable
 Feature: Test Discover feature
 
 Scenario: Test Account login Scenario

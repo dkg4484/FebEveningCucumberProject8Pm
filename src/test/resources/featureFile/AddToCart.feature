@@ -1,3 +1,4 @@
+@AddToCart
 Feature: Testing Cart feature
 
 Scenario: Test positive use case of Amazon Cart Scenario

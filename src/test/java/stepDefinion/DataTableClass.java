@@ -13,6 +13,7 @@ import io.cucumber.java.lu.a.as;
 
 public class DataTableClass {
 
+	
 	@Given("the user launches the url")
 	public void the_user_launches_the_url(DataTable datas) {
 
