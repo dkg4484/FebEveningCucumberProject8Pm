@@ -150,6 +150,7 @@ class Login {
 public void test1(){
 
 	System.out.println("Hello Test tom login");
+	Assert.assertEquals();
 
 }
 
